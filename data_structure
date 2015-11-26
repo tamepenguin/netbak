@@ -1,0 +1,10 @@
+Headmatter für backed up files
+
+
+Client-Infos in File:
+* IP 
+* DNS-Name
+* Voller Dateipfad des originals
+* Username des backuppenden users
+* md5sum of file
+ 
